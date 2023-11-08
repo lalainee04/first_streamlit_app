@@ -7,3 +7,5 @@ pyarrow<8.1.0,>=8.0.0
 
 streamlit >= 1.25.0
  urllib3==1.26.16.
+
+https://baseball-metrics-graph.streamlit.app/
